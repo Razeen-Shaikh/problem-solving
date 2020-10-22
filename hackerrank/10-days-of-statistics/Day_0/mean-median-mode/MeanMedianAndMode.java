@@ -1,8 +1,7 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
 
 public class MeanMedianAndMode {
 
@@ -14,6 +13,7 @@ public class MeanMedianAndMode {
         for (int i = 0; i < N; i++) {
             X.add(in.nextDouble());
         }
+        in.close();
         for (int i = 0; i < N; i++) {
             sum += X.get(i);
         }
