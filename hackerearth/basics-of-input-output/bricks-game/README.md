@@ -6,15 +6,15 @@ They to follow a simple rule, In the i'th round, Patlu puts i bricks whereas Mot
 
 There are only N bricks, you need to help find the challenge result to find who put the last brick.
 
-Input:
+**Input:**
 
 First line contains an integer N.
 
-Output:
+**Output:**
 
 Output "Patlu" (without the quotes) if Patlu puts the last bricks ,"Motu"(without the quotes) otherwise.
 
-Constraints:
+**Constraints:**
 
 1 ≤ N ≤ 10000
 
