@@ -1,4 +1,4 @@
-# Concatenating Strings - Python
+# Concatenating Strings
 
 You are familiar with different tricks of output. Here is the last one of concatenating the string. You have two strings and your task is to print the string after concatenating them.
 
