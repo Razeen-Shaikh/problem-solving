@@ -4,3 +4,6 @@
 [submodule "project-euler"]
 	path = project-euler
 	url = https://github.com/Razeen-Shaikh/project-euler.git
+[submodule "geeksforgeeks"]
+	path = geeksforgeeks
+	url = https://github.com/Razeen-Shaikh/geeksforgeeks.git
