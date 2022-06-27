@@ -7,3 +7,6 @@
 [submodule "geeksforgeeks"]
 	path = geeksforgeeks
 	url = https://github.com/Razeen-Shaikh/geeksforgeeks.git
+[submodule "hackerrank"]
+	path = hackerrank
+	url = https://github.com/Razeen-Shaikh/hackerrank.git
