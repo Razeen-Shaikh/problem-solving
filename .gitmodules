@@ -10,3 +10,6 @@
 [submodule "hackerrank"]
 	path = hackerrank
 	url = https://github.com/Razeen-Shaikh/hackerrank.git
+[submodule "hackerearth"]
+	path = hackerearth
+	url = https://github.com/Razeen-Shaikh/hackerearth.git
