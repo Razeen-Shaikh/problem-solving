@@ -13,3 +13,6 @@
 [submodule "hackerearth"]
 	path = hackerearth
 	url = https://github.com/Razeen-Shaikh/hackerearth.git
+[submodule "techgig"]
+	path = techgig
+	url = https://github.com/Razeen-Shaikh/techgig.git
