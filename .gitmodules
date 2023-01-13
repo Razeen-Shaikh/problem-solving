@@ -16,3 +16,21 @@
 [submodule "techgig"]
 	path = techgig
 	url = https://github.com/Razeen-Shaikh/techgig.git
+[submodule "codechef"]
+	path = codechef
+	url = https://github.com/Razeen-Shaikh/codechef.git
+[submodule "codewars"]
+	path = codewars
+	url = https://github.com/Razeen-Shaikh/codewars
+[submodule "codingame"]
+	path = codingame
+	url = https://github.com/Razeen-Shaikh/codingame
+[submodule "freecodecamp"]
+	path = freecodecamp
+	url = https://github.com/Razeen-Shaikh/freecodecamp
+[submodule "algorithms"]
+	path = algorithms
+	url = https://github.com/Razeen-Shaikh/algorithms
+[submodule "datastructure"]
+	path = datastructure
+	url = https://github.com/Razeen-Shaikh/datastructure
