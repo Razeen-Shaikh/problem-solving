@@ -16,9 +16,6 @@
 [submodule "techgig"]
 	path = techgig
 	url = https://github.com/Razeen-Shaikh/techgig.git
-[submodule "codechef"]
-	path = codechef
-	url = https://github.com/Razeen-Shaikh/codechef.git
 [submodule "codewars"]
 	path = codewars
 	url = https://github.com/Razeen-Shaikh/codewars
@@ -34,3 +31,6 @@
 [submodule "datastructure"]
 	path = datastructure
 	url = https://github.com/Razeen-Shaikh/datastructure
+[submodule "codechef"]
+	path = codechef
+	url = https://github.com/Razeen-Shaikh/codechef.git
